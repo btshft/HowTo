@@ -1,2 +1,2 @@
 # HowTo
-My view at some problems and ways to solve them as quick tutorial
+Набор советов и гайдов по решению определенных видов задач с помощью определенных технологий
